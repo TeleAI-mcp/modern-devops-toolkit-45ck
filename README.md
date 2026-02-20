@@ -1,2 +1,3 @@
-# modern-devops-toolkit-45ck
-Automated issue comment bot repository
+# Modern Devops Toolkit 45Ck
+
+Automated issue comment bot repository.
